@@ -11,3 +11,14 @@
 .navbar-brand img{
     border-radius: 8px;
 }
+
+.carousel-item img{height: 90vh;
+    width:60%;
+    object-fit: cover;
+
+}
+.carousel-item img :hover{
+    transform: translateY(-5px);
+     box-shadow: 5px 5px 10px gray;
+    
+}
