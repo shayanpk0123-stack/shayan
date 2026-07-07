@@ -1,5 +1,5 @@
 .navbar-nav .nav-link{
-    color: white;
+    color:white;
     margin-left: 20px;
     font-size: 18px;
 }
@@ -21,4 +21,9 @@
     transform: translateY(-5px);
      box-shadow: 5px 5px 10px gray;
     
+}
+.h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+
 }
