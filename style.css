@@ -1,43 +1,84 @@
-.navbar-nav .nav-link{
-    color:white;
+
+
+
+
+.navbar-nav .nav-link {
+    color: white;
     margin-left: 20px;
     font-size: 18px;
 }
 
-.navbar-nav .nav-link:hover{
+.navbar-nav .nav-link:hover {
     color: #0d6efd;
 }
 
-.navbar-brand img{
+.navbar-brand img {
     border-radius: 8px;
 }
 
-.carousel-item img{height: 90vh;
-    width:60%;
+.carousel-item img {
+    height: 90vh;
+    width: 60%;
     object-fit: cover;
 
 }
-.carousel-item img :hover{
+
+.carousel-item img :hover {
     transform: translateY(-5px);
-     box-shadow: 5px 5px 10px gray;
-    
-}
-.h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-height: 150px;
-    background-color: black;
-    color: aliceblue;
+    box-shadow: 5px 5px 10px gray;
 
 }
-.color{background-color: black;
+
+.h1 { line-height: 1.8;
+    text-align: start;
+    margin-left: 10px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-style: italic
     
+    
+    
+}
+
+.h2 {
+    margin-left: 10px;
 
 }
-.card{
+.line{height: 2px;
+    width: 100%;
+    background-color: gray;
+     margin: 20px 0;
+
+}
+
+.featured-products{
+    padding: 60px 20px;
+    text-align:start;
+    background-color: #f8f9fa;
+}
+
+.featured-products h2 {
+    font-size: 36px;
+    color: #222;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.featured-products p {
+    max-width: 700px;
+    margin: 0 auto;
+    font-size: 18px;
+    color: #666;
+    line-height: 1.8;
+}
+
+
+.card {
     border-radius: 20px;
 }
-.card:hover{
-     transform: translateY(-8px);
-    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
 
 }
