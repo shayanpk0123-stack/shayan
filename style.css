@@ -29,52 +29,40 @@
 
 }
 
-.h1 { line-height: 1.8;
-    text-align: start;
-    margin-left: 10px;
-    margin-top: 20px;
-    text-transform: uppercase;
-    font-style: italic
-    
-    
-    
-}
+.h1 { background-color: black;
+    line-height: 1.8;
+    height: 250px;
+    padding: 20px;
+    padding-top: 40px;
+    color: #f8f9fa;
+    margin-bottom: 0px;
 
-.h2 {
-    margin-left: 10px;
-
+        
 }
 .line{height: 2px;
     width: 100%;
-    background-color: gray;
-     margin: 20px 0;
+    background-color: gray
+
+    
+
 
 }
 
-.featured-products{
-    padding: 60px 20px;
-    text-align:start;
-    background-color: #f8f9fa;
-}
 
-.featured-products h2 {
-    font-size: 36px;
-    color: #222;
-    font-weight: bold;
-    margin-bottom: 15px;
+.h2{height: 250px;
+    background-color: black;
+    color: #f8f9fa;
+    padding:20px ;
 }
+.color{background-color: black;
 
-.featured-products p {
-    max-width: 700px;
-    margin: 0 auto;
-    font-size: 18px;
-    color: #666;
-    line-height: 1.8;
 }
 
 
-.card {
-    border-radius: 20px;
+
+.card image {
+    border-radius: 50px;
+
 }
 
 .card:hover {
