@@ -61,8 +61,11 @@
 
 
 
-.card image {
-    border-radius: 50px;
+.card img {
+    border-radius: 10px;
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
     
     
 
@@ -79,4 +82,7 @@
     color: #f8f9fa;
 
 
+}
+.why{
+    border-color: black;
 }
