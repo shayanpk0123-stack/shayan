@@ -1,7 +1,5 @@
 
 
-
-
 .navbar-nav .nav-link {
     color: white;
     margin-left: 20px;
@@ -83,6 +81,15 @@
 
 
 }
-.why{
-    border-color: black;
+.why
+{
+    background-color: black;
+width: 1585px;
+    
+    
+}
+.f1{
+    width: 100%;
+    height: 300px;
+    background-color: black;
 }
