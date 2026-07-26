@@ -159,3 +159,9 @@
     margin-left:135px;
     color: white;
 }
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation: colorChange 1s infinite;
+}
